@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full-Stack Java Development and AI/ML integration projects<br>👯 I'm looking to collaborate on Open source projects and Java web development initiatives<br>🤝 I'm looking for help with Springboot microservices and Machine Learning deployment<br>🌱 I'm currently learning Advanced Java, Cloud technologies, and Data Analytics<br>💬 Ask me about Java, Database Design, DSA, and Web Development<br>⚡ Fun fact: I love analyzing cricket predictions and playing online chess
+🔭 I'm currently working on Full-Stack Java Development and AI/ML integration projects<br>👯 I'm looking to collaborate on Open source projects and Java web development initiatives<br>🤝 I'm looking for help with Springboot microservices and Machine Learning deployment<br>🌱 I'm currently learning Advanced Java, Cloud technologies, and Data Analytics<br>💬 Ask me about Java, Database Design, DSA, and Web Development<br>⚡ Fun fact : Clean code > clever code
 
 
 ## 🌐 Socials:
