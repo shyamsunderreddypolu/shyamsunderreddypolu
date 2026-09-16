@@ -4,6 +4,7 @@
 💻 Aspiring Java Full-Stack Developer  
 🚀 Interested in Java, Spring Boot, DSA, Web Development, and AI-assisted development  
 📚 Currently preparing for software engineering placements  
+🌐 Portfolio: [portfolio-one-black-eieoymagpl.vercel.app](https://portfolio-one-black-eieoymagpl.vercel.app/#home)
 
 ---
 
@@ -13,7 +14,7 @@
 - 🌱 I’m currently learning Spring Boot, REST APIs, SQL, and Data Structures & Algorithms
 - 💡 I enjoy solving coding problems and building real-world applications
 - 🤝 I’m looking for internship and entry-level software developer opportunities
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **polushyamsunderreddy@gmail.com**
 - ⚡ Fun fact: I enjoy exploring new technologies and improving my coding skills every day
 
 ---
@@ -41,19 +42,19 @@
 
 ## 🚀 Featured Projects
 
-### 📌 [Project Name 1](https://github.com/your-username/project-repository)
+### 📌 [Project Name 1](https://github.com/shyamsunderreddypolu)
 Short description of your project.
 
 - Technologies: Java, Spring Boot, MySQL, HTML, CSS
 - Features: Authentication, CRUD operations, REST APIs
 
-### 📌 [Project Name 2](https://github.com/your-username/project-repository)
+### 📌 [Project Name 2](https://github.com/shyamsunderreddypolu)
 Short description of another project.
 
 - Technologies: JavaScript, HTML, CSS, SQL
 - Features: Responsive UI, data management, user-friendly design
 
-### 📌 [DSA Practice Repository](https://github.com/your-username/dsa-repository)
+### 📌 [DSA Practice Repository](https://github.com/shyamsunderreddypolu)
 A repository containing solutions for Data Structures and Algorithms problems in Java.
 
 ---
@@ -61,24 +62,25 @@ A repository containing solutions for Data Structures and Algorithms problems in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamsunderreddypolu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyamsunderreddypolu&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsunderreddypolu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polushyamsunderreddy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyamsunderreddypolu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-one-black-eieoymagpl.vercel.app/#home)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polushyamsunderreddy@gmail.com)
 
 ---
 
