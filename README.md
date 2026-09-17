@@ -1,6 +1,6 @@
 # Hi there, I'm Shyam Sunder Reddy 👋
 
-🎓 Final-year B.Tech student from Telangana, India  
+🎓 Final-year B.Tech student from Hyderabad, India  
 💻 Aspiring Java Full-Stack Developer  
 🚀 Interested in Java, Spring Boot, DSA, Web Development, and Cloud/AI  
 📚 Currently preparing for software engineering placements  
